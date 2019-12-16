@@ -1,28 +1,41 @@
---- # Only the main Sass file needs front matter (the dashes are enough) --- @charset "utf-8";
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+
+
 // Our variables
-$base-font-family: 'Open Sans',
-Helvetica,
-Arial,
-sans-serif;
-$base-font-size : .95em;
-$small-font-size : $base-font-size * 0.875;
+$base-font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+$base-font-size:   .95em;
+$small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.5;
-$spacing-unit : 30px;
-$text-color : #111;
-$background-color: #3AAFA9;
-$brand-color : #006fbe;
+
+$spacing-unit:     30px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #0077CC;
 // $gameday-sky: #109dc0;
-$clemson-purple : #B39BC8;
-$clemson-orange : #222629;
-$clemson-green : #F172A1;
-$clemson-red : #5f4b8b;
-$grey-color : #828282;
+$clemson-purple:      #336699;
+$clemson-orange:      #f66733;
+$clemson-green:  #10c03c;
+$clemson-red:  #ee0303;
+
+
+$grey-color:       #828282;
 $grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark : darken($grey-color, 25%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+
 // Width of the content area
-$content-width : 950px;
-$on-palm : 600px;
-$on-laptop : 950px;
+$content-width:    950px;
+
+$on-palm:          600px;
+$on-laptop:        950px;
+
+
+
 // Using media queries with like this:
 // @include media-query($on-palm) {
 //     .wrapper {
@@ -36,10 +49,14 @@ $on-laptop : 950px;
     }
 }
 
+
+
 // Import partials from `sass_dir` (defaults to `_sass`)
-@import "header",
-"mobile-header",
-"base",
-"layout",
-"syntax-highlighting",
-"fancy-image";
+@import
+        "header",
+	"mobile-header",
+        "base",
+        "layout",
+        "syntax-highlighting",
+	"fancy-image"
+;
