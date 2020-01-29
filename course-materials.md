@@ -13,3 +13,9 @@ permalink: /course-materials/
 * [1] S .Palnitkar, Verilog HDL: A Guide to Digital Design and Synthesis. SunSoft Press, 2nd ed 2003.
 * [2] V. A. Pedroni,Circuit Design with VHDL. MIT Press, 2001.
 * [3] C. Maxifield, The Design Warrior's Guide to FPGAs: Devices, Tools and Flows. Elsevier Pub, 2004.
+
+
+# you can download books here
+
+* Get password from your master.
+* [CourseMaterials](./Books.rar)
