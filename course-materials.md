@@ -17,5 +17,9 @@ permalink: /course-materials/
 
 # you can download books here
 
+* This file contains the following books
+* [1] Verilog® HDL: A Guide to Digital Design and Synthesis, Second edition by Samir Palnitkar
+* [2] Verilog Digital System Design , RT Level Synthesis, Testbench and Verification, Second edition by Zainalabedin Navabi
+* [3] DIGITAL VLSI SYSTEMS DESIGN , by Dr. S. Ramachandran
 * Get password from your master.
 * [CourseMaterials](./Books.rar)
