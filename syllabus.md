@@ -6,7 +6,7 @@ permalink: /syllabus/
 
 
 # Computer-Aided Digital System Design (CAD)!
- “A New Golden Age for Computer Architecture: Domain-Specific Hardware/Software Co-Design, Enhanced Security, Open Instruction Sets, and Agile Chip Development”
+“A New Golden Age for Computer Architecture: Domain-Specific Hardware/Software Co-Design, Enhanced Security, Open Instruction Sets, and Agile Chip Development”
 By John L. Hennessy and David A. Patterson
 
 
