@@ -23,14 +23,14 @@ permalink: /assignments/
 
 * [HomeWork1](./files/CAD_HW_1.pdf)
 
-* [HomeWork1](./files/CAD_HW_2.pdf)
+* [HomeWork2](./files/CAD_HW_2.pdf)
 
-* [HomeWork1](./files/CAD_HW_3.pdf)
+* [HomeWork3](./files/CAD_HW_3.pdf)
 
-* [HomeWork1](./files/CAD_HW_4.pdf)
+* [HomeWork4](./files/CAD_HW_4.pdf)
 
-* [HomeWork1](./files/HW_5.pdf)
+* [HomeWork5](./files/HW_5.pdf)
 
-* [HomeWork1](./files/HW_6.pdf)
+* [HomeWork6](./files/HW_6.pdf)
 
-* [HomeWork1](./files/HW_7.pdf)
+* [HomeWork7](./files/HW_7.pdf)
