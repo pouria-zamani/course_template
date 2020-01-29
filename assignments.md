@@ -17,3 +17,20 @@ permalink: /assignments/
       </li>
 {% endfor %}
 </ul>
+
+
+# Get your homeworks from here
+
+* [HomeWork1](./files/CAD_HW_1.pdf)
+
+* [HomeWork1](./files/CAD_HW_2.pdf)
+
+* [HomeWork1](./files/CAD_HW_3.pdf)
+
+* [HomeWork1](./files/CAD_HW_4.pdf)
+
+* [HomeWork1](./files/HW_5.pdf)
+
+* [HomeWork1](./files/HW_6.pdf)
+
+* [HomeWork1](./files/HW_7.pdf)
