@@ -36,4 +36,4 @@ permalink: /assignments/
 * [HomeWork7](./files/HW_7.pdf)
 
 
-** [FinalProject](./files/CAD-FinalProject.pdf)
+## [FinalProject](./files/CAD-FinalProject.pdf)
